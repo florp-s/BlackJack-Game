@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Shoe
+comment1.params=
+comment1.target=Shoe()
+comment10.params=
+comment10.target=void\ prepForNextHand()
+comment2.params=numDecks
+comment2.target=Shoe(int)
+comment3.params=
+comment3.target=void\ initializeShoe()
+comment4.params=
+comment4.target=int\ numCardsInShoe()
+comment5.params=
+comment5.target=int\ numCardsRemaining()
+comment6.params=
+comment6.target=Card\ dealCard()
+comment7.params=
+comment7.target=void\ shuffle()
+comment8.params=
+comment8.target=void\ takeInventory()
+comment9.params=
+comment9.target=void\ reset()
+numComments=11

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CardUtil
+comment1.params=
+comment1.target=CardUtil()
+comment10.params=cardStr
+comment10.target=java.lang.String\ cardValueText(java.lang.String)
+comment2.params=rank
+comment2.target=boolean\ isValidRank(java.lang.String)
+comment3.params=suit
+comment3.target=boolean\ isValidSuit(java.lang.String)
+comment4.params=
+comment4.target=int\ cardsPerDeck()
+comment5.params=
+comment5.target=Card[]\ generateDeck()
+comment6.params=suit
+comment6.target=java.lang.String\ suitToWord(java.lang.String)
+comment7.params=rank
+comment7.target=java.lang.String\ rankToWord(java.lang.String)
+comment8.params=s
+comment8.target=boolean\ isValidCardString(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ randomCardString()
+numComments=11

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dealer
+comment1.params=source
+comment1.target=Dealer(CardSource)
+comment2.params=
+comment2.target=void\ evalPosition()
+comment3.params=
+comment3.target=void\ dealInitCard()
+comment4.params=playerHandValue
+comment4.target=void\ takeTurn(int)
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=source
+comment1.target=Player(CardSource)
+comment2.params=
+comment2.target=void\ placeBet()
+comment3.params=
+comment3.target=int\ getNetAmount()
+comment4.params=
+comment4.target=void\ tallyLoss()
+comment5.params=
+comment5.target=void\ tallyWin()
+comment6.params=
+comment6.target=void\ reportNet()
+comment7.params=
+comment7.target=void\ evalPosition()
+comment8.params=
+comment8.target=void\ dealInitCard()
+numComments=9
